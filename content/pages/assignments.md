@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the problem sets assigned for the course, guidelines
+  for writing papers, and examples of student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides review materials for the midterm and final exam
+  of the course.
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection
